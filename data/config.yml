@@ -19,7 +19,7 @@ aliya3.in:
 aliya4.in:
   timeLimit: 1000
   memoryLimit: 128000
-  score: 3下·
+  score: 3
   subtaskId: 2
 
 aliya5.in:
@@ -195,4 +195,3 @@ aliya33.in:
   memoryLimit: 512000
   score: 10
   subtaskId: 8
-
